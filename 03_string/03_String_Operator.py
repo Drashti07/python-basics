@@ -47,3 +47,4 @@ print("Z" < "a")   # True → 90 < 97
 print("9" < "A")   # True → 57 < 65
 print("!" < "0")   # True → 33 < 48
 print("@" < "A")   # True → 64 < 65
+
