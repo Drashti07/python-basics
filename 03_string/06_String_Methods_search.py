@@ -27,7 +27,7 @@ Note : - ind() returns the first occurrence from the left.
 
          - empty string - return len(str)
 
-5. coubnt() : it give string is how many time occurs in the string
+5. count() : it give string is how many time occurs in the string
             - If substring is not found, returns 0
     signature : 
         int count(substring, start=0, end=len(str))

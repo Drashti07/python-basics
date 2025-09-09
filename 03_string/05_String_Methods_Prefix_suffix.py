@@ -1,4 +1,4 @@
-''' prefix ans suffix methos : all this methods are case sensitive
+''' prefix and suffix methos : all this methods are case sensitive
     1. startswith() : it check if string starts with given prefix or not.
         signature : 
             boolean startswith(prefix , start, end)
