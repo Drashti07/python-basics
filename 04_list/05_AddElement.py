@@ -38,7 +38,9 @@
                 That means:
                 - A new list object is created.
                 - It contains references to the same elements as the original (not deep copies)
-
+            Signature : 
+                new_list = list.copy()
+                    - return list
     
 '''
 
